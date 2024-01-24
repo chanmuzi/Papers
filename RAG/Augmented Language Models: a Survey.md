@@ -1,3 +1,4 @@
+링크: https://arxiv.org/abs/2302.07842
 # Points
 - LMs (Language Models)가 지니는 context size, out-of-date information 등과 관련된 문제를 해결하기 위해 다양한 augmentation 기법들이 도입됨
 - 본인은 그중에서도 RAG (Retrieval Augmented Generation) 관련 내용만을 간단히 정리
