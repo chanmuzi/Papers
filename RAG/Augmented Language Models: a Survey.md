@@ -1,4 +1,3 @@
-링크: https://arxiv.org/abs/2302.07842
 # Points
 - LMs (Language Models)가 지니는 context size, out-of-date information 등과 관련된 문제를 해결하기 위해 다양한 augmentation 기법들이 도입됨
 - 본인은 그중에서도 RAG (Retrieval Augmented Generation) 관련 내용만을 간단히 정리
@@ -20,3 +19,5 @@
   - 설명과 예측 결과를 구성하는 reasoning paths를 생성하는 방식
   - 추가적인 학습 또는 fine-tuning이 필요하지 않은 기법
   - [information retrieval chain-of-thought (IRCoT)](https://arxiv.org/abs/2212.10509): CoT를 multi-step QA와 합체
+---
+링크: https://arxiv.org/abs/2302.07842
