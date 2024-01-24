@@ -8,6 +8,6 @@
 # RAG (Retrieval Augmented Generation)
 |Date|Title(arxiv)|Keyword|Affiliation|Note|
 |:---:|:---:|:---:|:---:|:---:|
-|2023.02|[Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)|RAG, Survey|Meta| |
+|2023.02|[Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)|RAG, Survey|Meta|[short](https://github.com/chanmuzi/Papers/blob/main/RAG/Augmented%20Language%20Models%3A%20a%20Survey.md)|
 
 ---
