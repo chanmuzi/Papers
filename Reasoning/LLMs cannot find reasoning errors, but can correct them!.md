@@ -10,3 +10,5 @@
   <img width="959" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/90b00b49-d9c7-493b-9374-b3c461445708">
  
 - GPT-4-Turbo, GPT-4, GPT-3.5-Turbo로 실험했다.
+---
+링크: https://arxiv.org/abs/2311.08516
