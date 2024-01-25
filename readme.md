@@ -9,6 +9,7 @@
 |Date|Title(arxiv)|Keyword|Affiliation|Note|
 |:---:|:---:|:---:|:---:|:---:|
 |2023.02|[Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)|RAG, Survey|Meta|[short](https://github.com/chanmuzi/Papers/blob/main/RAG/Augmented%20Language%20Models%3A%20a%20Survey.md)|
+|2023.10|[Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)|Rerank|Nanyang Technological University|[short]|
 
 ---
 # Training
