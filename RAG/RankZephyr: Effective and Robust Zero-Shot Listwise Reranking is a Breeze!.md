@@ -11,3 +11,6 @@
   - GPT3.5, GPT4로부터의 distillation을 비교
   - 8 x RTX A6000로 40시간 학습했다고 함
   <img width="650" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/b9d2bab2-b131-447b-9947-95c5f4c488d2">
+
+---
+링크: https://arxiv.org/abs/2312.02724
