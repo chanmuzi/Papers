@@ -28,9 +28,13 @@
 |2024.01|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)|Self-Play||[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)|
 |2024.01|[Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491)|Knowledge Fusion|Tencent AI Lab|[Blog](https://chanmuzi.tistory.com/470)|
 |2023.12|[Select, Prompt, Filter: Distilling Large Language Models for Summarizing Conversations](https://aclanthology.org/2023.emnlp-main.753/)|Knowledge Distillation|Zoom Video Communications|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Select%2C%20Prompt%2C%20Filter%3A%20Distilling%20Large%20Language%20Models%20for%20Summarizing%20Conversations.md)|
+|2024.01|[Can AI Assistants Know What They Don't Know?](https://arxiv.org/abs/2401.13275)|Hallucination|Fudan University|[Blog](https://chanmuzi.tistory.com/471)|
+
 
 ---
 # Prompting
 |Date|Title(arxiv)|Keyword|Affiliation|Note|
 |:---:|:---:|:---:|:---:|:---:|
 |2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Meta-Prompting%3A%20Enhancing%20Language%20Models%20with%20Task-Agnostic%20Scaffolding.md)|
+
+
