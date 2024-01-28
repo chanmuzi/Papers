@@ -27,3 +27,10 @@
 |2023.12|[Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390)|superhuman model|OpenAI|[Blog](https://chanmuzi.tistory.com/469)|
 |2024.01|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)|Self-Play||[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)|
 |2024.01|[Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491)|Knowledge Fusion|Tencent AI Lan|[Blog](https://chanmuzi.tistory.com/470)|
+
+
+---
+# Prompting
+|Date|Title(arxiv)|Keyword|Affiliation|Note|
+|:---:|:---:|:---:|:---:|:---:|
+|2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown]()|
