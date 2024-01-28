@@ -33,4 +33,4 @@
 # Prompting
 |Date|Title(arxiv)|Keyword|Affiliation|Note|
 |:---:|:---:|:---:|:---:|:---:|
-|2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown]()|
+|2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Meta-Prompting%3A%20Enhancing%20Language%20Models%20with%20Task-Agnostic%20Scaffolding.md)|
