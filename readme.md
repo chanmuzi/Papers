@@ -29,7 +29,7 @@
 |2024.01|[Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491)|Knowledge Fusion|Tencent AI Lab|[Blog](https://chanmuzi.tistory.com/470)|
 |2023.12|[Select, Prompt, Filter: Distilling Large Language Models for Summarizing Conversations](https://aclanthology.org/2023.emnlp-main.753/)|Knowledge Distillation|Zoom Video Communications|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Select%2C%20Prompt%2C%20Filter%3A%20Distilling%20Large%20Language%20Models%20for%20Summarizing%20Conversations.md)|
 |2024.01|[Can AI Assistants Know What They Don't Know?](https://arxiv.org/abs/2401.13275)|Hallucination|Fudan University|[Blog](https://chanmuzi.tistory.com/471)|
-
+|2024.01|[Tuning Language Models by Proxy](https://arxiv.org/abs/2401.08565)|Proxy-tuning|Allen Institue of AI|[Blog](https://chanmuzi.tistory.com/472)|
 
 ---
 # Prompting
