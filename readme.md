@@ -38,3 +38,9 @@
 |2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Meta-Prompting%3A%20Enhancing%20Language%20Models%20with%20Task-Agnostic%20Scaffolding.md)|
 
 
+
+---
+# Compression
+|Date|Title(arxiv)|Keyword|Affiliation|Note|
+|:---:|:---:|:---:|:---:|:---:|
+|2024.01|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)|Model Compression|Microsoft Research|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Compression/SliceGPT%3A%20Compress%20Large%20Language%20Models%20by%20Deleting%20Rows%20and%20Columns.md)|
