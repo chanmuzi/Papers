@@ -16,7 +16,7 @@
 |2023.10|[Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/abs/2304.09542)|Re-Ranking|Baidu|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Is%20ChatGPT%20Good%20at%20Search%3F%20Investigating%20Large%20Language%20Models%20as%20Re-Ranking%20Agents.md)||
 |2023.10|[Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)|Reranking|Nanyang Technological University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Large%20Language%20Model%20Is%20Not%20a%20Good%20Few-shot%20Information%20Extractor%2C%20but%20a%20Good%20Reranker%20for%20Hard%20Samples!.md)||
 |2023.12|[RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/abs/2312.02724)|Reranking|University of Waterloo|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/RankZephyr:%20Effective%20and%20Robust%20Zero-Shot%20Listwise%20Reranking%20is%20a%20Breeze!.md)||
-
+|2024.01|[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/abs/10.1145/3641289)|Evaluation, Survey|Many|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/A%20Survey%20on%20Evaluation%20of%20Large%20Language%20Models.md)|ACM|
 
 
 
