@@ -25,5 +25,5 @@
   <img width="1326" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/1b2a6424-7504-4967-8e69-0aee6d9c99c0">
 
 ---
-논문 링크: https://arxiv.org/abs/2104.08663
+논문 링크: https://arxiv.org/abs/2104.08663  
 깃허브 링크: https://github.com/beir-cellar/beir
