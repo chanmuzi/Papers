@@ -12,7 +12,7 @@
 # RAG (Retrieval Augmented Generation)
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2021.10|[BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)|IR Benchmark|UKP-TUDA|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/BEIR%3A%20A%20Heterogeneous%20Benchmark%20for%20Zero-shot%20Evaluation%20of%20Information%20Retrieval%20Models.md)||
+|2021.10|[BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)|IR Benchmark|UKP-TUDA|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/BEIR%3A%20A%20Heterogeneous%20Benchmark%20for%20Zero-shot%20Evaluation%20of%20Information%20Retrieval%20Models.md)|NeurIPS 2021|
 |2023.02|[Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)|RAG, Survey|Meta|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Augmented%20Language%20Models%3A%20a%20Survey.md)||
 |2023.10|[Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/abs/2304.09542)|Re-Ranking|Baidu|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Is%20ChatGPT%20Good%20at%20Search%3F%20Investigating%20Large%20Language%20Models%20as%20Re-Ranking%20Agents.md)||
 |2023.10|[Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)|Reranking|Nanyang Technological University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Large%20Language%20Model%20Is%20Not%20a%20Good%20Few-shot%20Information%20Extractor%2C%20but%20a%20Good%20Reranker%20for%20Hard%20Samples!.md)||
