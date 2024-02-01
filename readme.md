@@ -17,7 +17,8 @@
 |2023.10|[Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/abs/2304.09542)|Re-Ranking|Baidu|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Is%20ChatGPT%20Good%20at%20Search%3F%20Investigating%20Large%20Language%20Models%20as%20Re-Ranking%20Agents.md)||
 |2023.10|[Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)|Reranking|Nanyang Technological University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Large%20Language%20Model%20Is%20Not%20a%20Good%20Few-shot%20Information%20Extractor%2C%20but%20a%20Good%20Reranker%20for%20Hard%20Samples!.md)||
 |2023.12|[RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/abs/2312.02724)|Reranking|University of Waterloo|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/RankZephyr:%20Effective%20and%20Robust%20Zero-Shot%20Listwise%20Reranking%20is%20a%20Breeze!.md)||
-|2024.01|[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/abs/10.1145/3641289)|Evaluation, Survey|Many|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/A%20Survey%20on%20Evaluation%20of%20Large%20Language%20Models.md)|ACM|
+|2024.01|[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/abs/10.1145/3641289)|Evaluation, Survey|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/A%20Survey%20on%20Evaluation%20of%20Large%20Language%20Models.md)|ACM|
+|2024.01|[The Power of Noise: Redefining Retrieval for RAG Systems](https://arxiv.org/abs/2401.14887)|Noise, RAG|...|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/RAG/The%20Power%20of%20Noise%3A%20Redefining%20Retrieval%20for%20RAG%20Systems.md)|ACM|
 
 
 
@@ -27,7 +28,7 @@
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2023.12|[Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390)|superhuman model|OpenAI|[Blog](https://chanmuzi.tistory.com/469)||
-|2024.01|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)|Self-Play||[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)||
+|2024.01|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)|Self-Play|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)||
 |2024.01|[Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2401.10491)|Knowledge Fusion|Tencent AI Lab|[Blog](https://chanmuzi.tistory.com/470)||
 |2023.12|[Select, Prompt, Filter: Distilling Large Language Models for Summarizing Conversations](https://aclanthology.org/2023.emnlp-main.753/)|Knowledge Distillation|Zoom Video Communications|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Select%2C%20Prompt%2C%20Filter%3A%20Distilling%20Large%20Language%20Models%20for%20Summarizing%20Conversations.md)|EMNLP 2023|
 |2024.01|[Can AI Assistants Know What They Don't Know?](https://arxiv.org/abs/2401.13275)|Hallucination|Fudan University|[Blog](https://chanmuzi.tistory.com/471)||
