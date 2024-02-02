@@ -2,6 +2,7 @@
 
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2023.04|[PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales](https://arxiv.org/abs/2211.01562)|Rationale|University of Southern California|[Blog](https://chanmuzi.tistory.com/476)|ICLR 2023|
 |2023.10|[Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning](https://arxiv.org/abs/2310.18338)|Prompt Decomposition|IIT Delhi, India|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/Small%20Language%20Models%20Fine-tuned%20to%20Coordinate%20Larger%20Language%20Models%20improve%20Complex%20Reasoning.md)|EMNLP 2023|
 |2024.01|[LLMs cannot find reasoning errors, but can correct them!](https://arxiv.org/abs/2311.08516)|CoT|Google Research|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/LLMs%20cannot%20find%20reasoning%20errors%2C%20but%20can%20correct%20them!.md)||
 
