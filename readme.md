@@ -1,5 +1,5 @@
 # LLM (Large Language Model)
-|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.02|[OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)|Open Source, OLMo|AI2|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/LLM/OLMo%3A%20Accelerating%20the%20Science%20of%20Language%20Models.md)||
 
@@ -10,7 +10,7 @@
 
 # Reasoning
 
-|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2023.04|[PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales](https://arxiv.org/abs/2211.01562)|Rationale|University of Southern California|[Blog](https://chanmuzi.tistory.com/476)|ICLR 2023|
 |2023.10|[Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning](https://arxiv.org/abs/2310.18338)|Prompt Decomposition|IIT Delhi, India|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/Small%20Language%20Models%20Fine-tuned%20to%20Coordinate%20Larger%20Language%20Models%20improve%20Complex%20Reasoning.md)|EMNLP 2023|
@@ -21,7 +21,7 @@
 
 ---
 # RAG (Retrieval Augmented Generation)
-|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2021.10|[BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)|IR Benchmark|UKP-TUDA|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/BEIR%3A%20A%20Heterogeneous%20Benchmark%20for%20Zero-shot%20Evaluation%20of%20Information%20Retrieval%20Models.md)|NeurIPS 2021|
 |2023.02|[Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)|RAG, Survey|Meta|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Augmented%20Language%20Models%3A%20a%20Survey.md)||
@@ -36,7 +36,7 @@
 
 ---
 # Training
-|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2023.12|[Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390)|superhuman model|OpenAI|[Blog](https://chanmuzi.tistory.com/469)||
 |2024.01|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)|Self-Play|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)||
@@ -48,7 +48,7 @@
 
 ---
 # Prompting
-|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Meta-Prompting%3A%20Enhancing%20Language%20Models%20with%20Task-Agnostic%20Scaffolding.md)||
 
