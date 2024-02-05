@@ -1,4 +1,14 @@
-2# Reasoning
+# LLM (Large Language Model)
+|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.02|[OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)|Open Source, OLMo|AI2|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/LLM/OLMo%3A%20Accelerating%20the%20Science%20of%20Language%20Models.md)||
+
+
+
+---
+
+
+# Reasoning
 
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
