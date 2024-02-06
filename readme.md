@@ -30,7 +30,7 @@
 |2023.12|[RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/abs/2312.02724)|Reranking|University of Waterloo|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/RankZephyr:%20Effective%20and%20Robust%20Zero-Shot%20Listwise%20Reranking%20is%20a%20Breeze!.md)||
 |2024.01|[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/abs/10.1145/3641289)|Evaluation, Survey|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/A%20Survey%20on%20Evaluation%20of%20Large%20Language%20Models.md)|ACM|
 |2024.01|[The Power of Noise: Redefining Retrieval for RAG Systems](https://arxiv.org/abs/2401.14887)|Noise, RAG|...|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/RAG/The%20Power%20of%20Noise%3A%20Redefining%20Retrieval%20for%20RAG%20Systems.md)|ACM|
-
+|2024.01|[Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884)|RAG, CRAG|University of Science and Technology of Chian, <br> Google Research|[Blog](https://chanmuzi.tistory.com/480)||
 
 
 
