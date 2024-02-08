@@ -55,14 +55,15 @@
 
 
 ---
-# Evaluation
-|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|2024.02|[LLM-based NLG Evaluation: Current Status and Challenges](https://arxiv.org/abs/2402.01383)|NLG, Evaluation|Peking University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation/LLM-based%20NLG%20Evaluation%3A%20Current%20Status%20and%20Challenges.md)||
-
-
----
 # Compression
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.01|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)|Model Compression|Microsoft Research|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Compression/SliceGPT%3A%20Compress%20Large%20Language%20Models%20by%20Deleting%20Rows%20and%20Columns.md)||
+
+
+---
+# Evaluation / Benchmark
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.02|[LLM-based NLG Evaluation: Current Status and Challenges](https://arxiv.org/abs/2402.01383)|NLG, Evaluation|Peking University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation/LLM-based%20NLG%20Evaluation%3A%20Current%20Status%20and%20Challenges.md)||
+|2016.10|[SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)|SQUAD, QA, Benchmark|Stanford University|[Blog](https://chanmuzi.tistory.com/171)||
