@@ -66,4 +66,5 @@
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.02|[LLM-based NLG Evaluation: Current Status and Challenges](https://arxiv.org/abs/2402.01383)|NLG, Evaluation|Peking University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation/LLM-based%20NLG%20Evaluation%3A%20Current%20Status%20and%20Challenges.md)||
+|2024.01|[Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://arxiv.org/abs/2402.00159)|Dolma, Dataset, Pretraining|AI2|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation%2C%20Benchmark%2C%20Dataset/Dolma%3A%20an%20Open%20Corpus%20of%20Three%20Trillion%20Tokens%20for%20Language%20Model%20Pretraining%20Research.md)||
 |2016.10|[SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)|SQUAD, QA, Benchmark|Stanford University|[Blog](https://chanmuzi.tistory.com/171)||
