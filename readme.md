@@ -65,6 +65,12 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.01|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)|Model Compression|Microsoft Research|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Compression/SliceGPT%3A%20Compress%20Large%20Language%20Models%20by%20Deleting%20Rows%20and%20Columns.md)||
 
+---
+# Tool, Agent
+|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023.04|[Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842)|Tools, Chameleon|University of California, Los Angeles, Microsoft Research|[Blog](https://chanmuzi.tistory.com/301)|NeurIPS 2023|
+
 
 ---
 # Evaluation / Benchmark / Dataset
