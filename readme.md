@@ -60,6 +60,13 @@
 
 
 ---
+# PEFT
+|Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023.04|[LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model](https://arxiv.org/abs/2304.15010)|LLaMA, Visual Instruction|Shanghai Artificial Intelligence Laboratory|[Blog](https://chanmuzi.tistory.com/304)||
+
+
+---
 # Compression
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
