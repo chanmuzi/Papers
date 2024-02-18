@@ -20,7 +20,7 @@
 |2023.04|[Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System](https://arxiv.org/abs/2304.13343)|Self-Controlled Memory (SCM)|ByteDance AI Lab|[Blog](https://chanmuzi.tistory.com/296)||
 |2023.04|[PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales](https://arxiv.org/abs/2211.01562)|Rationale|University of Southern California|[Blog](https://chanmuzi.tistory.com/476)|ICLR 2023|
 |2023.04|[Answering Questions by Meta-Reasoning over Multiple Chains of Thought](https://arxiv.org/abs/2304.13007)|CoT, Meta-Reasoning|AI2|[Blog](https://chanmuzi.tistory.com/285)|EMNLP 2023|
-|2023.01|[Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning](https://arxiv.org/abs/2301.12726)|Knowledge Distillation, Reasoning|AI2|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/Specializing%20Smaller%20Language%20Models%20towards%20Multi-Step%20Reasoning.md)||
+|2023.01|[Specializing Smaller Language Models towards Multi-Step Reasoning](https://arxiv.org/abs/2301.12726)|Knowledge Distillation, Reasoning|AI2|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/Specializing%20Smaller%20Language%20Models%20towards%20Multi-Step%20Reasoning.md)||
 
 ---
 # RAG (Retrieval Augmented Generation)
