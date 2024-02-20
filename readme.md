@@ -13,6 +13,7 @@
 # Reasoning
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.02|[Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)|CoT-decoding|Google DeepMind|[Blog](https://chanmuzi.tistory.com/483)||
 |2024.02|[Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)|Decompose, Reasoning Structure|University of Southern California|[Blog](https://chanmuzi.tistory.com/482)||
 |2024.02|[A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains](https://arxiv.org/abs/2402.00559)|Benchmark, REVEAL|Google|[Blog](https://chanmuzi.tistory.com/478)|
 |2024.01|[LLMs cannot find reasoning errors, but can correct them!](https://arxiv.org/abs/2311.08516)|CoT|Google Research|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/LLMs%20cannot%20find%20reasoning%20errors%2C%20but%20can%20correct%20them!.md)||
