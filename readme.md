@@ -13,6 +13,7 @@
 # Reasoning
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.17|[Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models](https://arxiv.org/abs/2402.11140)|Boosting of Thoughts (BoT)|University of Toronto|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Reasoning/Boosting%20of%20Thoughts%3A%20Trial-and-Error%20Problem%20Solving%20with%20Large%20Language%20Models.md)|ICLR 2024|
 |2024.02|[Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)|CoT-decoding|Google DeepMind|[Blog](https://chanmuzi.tistory.com/483)||
 |2024.02|[Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)|Decompose, Reasoning Structure|University of Southern California|[Blog](https://chanmuzi.tistory.com/482)||
 |2024.02|[A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains](https://arxiv.org/abs/2402.00559)|Benchmark, REVEAL|Google|[Blog](https://chanmuzi.tistory.com/478)|
