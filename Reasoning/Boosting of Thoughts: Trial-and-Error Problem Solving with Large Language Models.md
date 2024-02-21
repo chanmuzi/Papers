@@ -1,3 +1,7 @@
+[ICLR 2024]  
+University of Toronto, University of Alberta
+
+---
 # Points
 - 여러 trial-and-erro reasoning 경험을 통합하기 위해 trees of thoughts를 반복적으로 활용하는 프레임워크
 - GPT-4 & Llama2로 mathematical problems(GMS8K, AQuA)에 대해 BoT (Boosting of Thoughts) 성능을 평가
