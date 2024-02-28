@@ -79,6 +79,7 @@
 |Date|Title(arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.01|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)|Model Compression|Microsoft Research|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Compression/SliceGPT%3A%20Compress%20Large%20Language%20Models%20by%20Deleting%20Rows%20and%20Columns.md)||
+|2023.04|[Learning to Compress Prompts with Gist Tokens](https://arxiv.org/abs/2304.08467?utm_source=substack&utm_medium=email)|Gist Token, Compression|Stanford University|[Blog](https://chanmuzi.tistory.com/306)|NeurIPS 2023|
 
 ---
 # Tool, Agent
