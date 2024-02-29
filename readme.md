@@ -99,3 +99,11 @@
 |2023.04|[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)|Emergent Ability|Stanford University|[Blog](https://chanmuzi.tistory.com/303)|NeurIPS 2023 oral|
 |2023.04|[Evaluating Verifiability in Generative Search Engines](https://arxiv.org/abs/2304.09848)|Generative Search Engine|Stanford University|[Blog](https://chanmuzi.tistory.com/302)|Findings of EMNLP 2023|
 |2016.10|[SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)|SQUAD, QA, Benchmark|Stanford University|[Blog](https://chanmuzi.tistory.com/171)||
+
+
+
+---
+# Others
+|Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.02|[LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)|LongRoPE, 2048k tokens|Microsoft Research|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Others/LongRoPE:%20Extending%20LLM%20Context%20Window%20Beyond%202%20Million%20Tokens.md)||
