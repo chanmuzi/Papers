@@ -103,7 +103,7 @@
 
 
 ---
-# Others
+# Others
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.02|[LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)|LongRoPE, 2048k tokens|Microsoft Research|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Others/LongRoPE:%20Extending%20LLM%20Context%20Window%20Beyond%202%20Million%20Tokens.md)||
