@@ -4,6 +4,7 @@
 |2024.02|[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)|Griffin, Hawk|Google DeepMind|[Blog](https://chanmuzi.tistory.com/488)||
 |2024.02|[OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)|Open Source, OLMo|AI2|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/LLM/OLMo%3A%20Accelerating%20the%20Science%20of%20Language%20Models.md)||
 |2024.01|[Orion-14B: Open-source Multilingual Large Language Models](https://arxiv.org/abs/2401.12246)|Open Source, MLLM|OrionStar Inc.|[Markdown](https://github.com/chanmuzi/Papers/blob/main/LLM/Orion-14B%3A%20Open-source%20Multilingual%20Large%20Language%20Models.md)||
+|2023.05|[PaLM2 Technical Report](https://arxiv.org/abs/2305.10403)|PaLM2|Google|[Blog](https://chanmuzi.tistory.com/310)||
 |2023.04|[Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)|Attention, RMT|Neural Networks and Deep Learning Lab, MIPT, Dolgoprudny, Russia|[Blog](https://chanmuzi.tistory.com/283)||
 |2023.03|[GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)|GPT-4|OpenAI|[Blog](https://chanmuzi.tistory.com/190)||
 |2019.05|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|BERT|Google AI Language|[Blog](https://chanmuzi.tistory.com/204)|NAACL-HLT 2019|
