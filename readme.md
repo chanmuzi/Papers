@@ -112,7 +112,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.02|[The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)|1-bit, BitNet b1.58|Microsoft Research|[Blog](https://chanmuzi.tistory.com/486)||
 |2024.02|[LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)|LongRoPE, 2048k tokens|Microsoft Research|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Others/LongRoPE:%20Extending%20LLM%20Context%20Window%20Beyond%202%20Million%20Tokens.md)||
-
+|2023.04|[ResiDual: Transformer with Dual Residual Connections](https://arxiv.org/abs/2304.14802)|Layer Normalization|Microsoft Research|[Blog](https://chanmuzi.tistory.com/313)|ICLR 2024 rejected|
 
 
 ---
