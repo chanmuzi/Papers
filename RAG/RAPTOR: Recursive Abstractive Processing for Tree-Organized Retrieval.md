@@ -8,6 +8,7 @@
   - Recursive summarization as Context
 - RAPTOR
   - Tree construction process 이미지
+    
     <img width="700" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/cd4f834b-24d4-4554-a0b3-ccb79aa469a9">
 
   - Clustering Algorithm
@@ -27,7 +28,18 @@
   - Datasets: NarrativeQA, QASPER, QuALITY
   - Metric: BLEU (B-1, B-4), ROUGE (R-L), METEOR (M), Accuracy
   - Baselines: SBERT, BM25, DPR
-       
+- Results
+  - NarrativeQA: With + Without RAPTOR (UnifiedQA-3B model)
+    
+    <img width="450" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/fd8f44f1-b72c-49be-92e2-0924db8ce9df">
+
+  - QuALITY and QASPER: With + Without RAPTOR (UnifiedQA-3B model)
+    <img width="450" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/2b1b8181-e9d8-423f-9f04-30551ceb02a1">
+
+  - F-1 Scores on the QASPER
+    
+    <img width="450" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/0b0d4962-c63e-4fc6-8038-fa8497eee8bf">
+
 - 소스코드는 [여기](https://github.com/parthsarthi03/raptor)에 공개
 
 ---
