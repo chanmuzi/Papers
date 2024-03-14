@@ -1,4 +1,4 @@
-# LLM (Large Language Model)
+<img width="945" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/8d932cd7-52d6-4219-b469-1607010fceee"># LLM (Large Language Model)
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.02|[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)|Griffin, Hawk|Google DeepMind|[Blog](https://chanmuzi.tistory.com/488)||
@@ -32,6 +32,7 @@
 # RAG (Retrieval Augmented Generation)
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.03|[Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)|LLMQA|Renmin University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Harnessing%20Multi-Role%20Capabilities%20of%20Large%20Language%20Models%20for%20Open-Domain%20Question%20Answering.md)|WWW 2024|
 |2024.01|[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)|tree, summarization|Stanford University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/RAPTOR%3A%20Recursive%20Abstractive%20Processing%20for%20Tree-Organized%20Retrieval.md)|ICLR 2024|
 |2024.01|[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/abs/10.1145/3641289)|Evaluation, Survey|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/A%20Survey%20on%20Evaluation%20of%20Large%20Language%20Models.md)|ACM|
 |2024.01|[The Power of Noise: Redefining Retrieval for RAG Systems](https://arxiv.org/abs/2401.14887)|Noise, RAG|...|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/RAG/The%20Power%20of%20Noise%3A%20Redefining%20Retrieval%20for%20RAG%20Systems.md)|ACM|
