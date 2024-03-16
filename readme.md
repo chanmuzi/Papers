@@ -50,6 +50,7 @@
 # Training
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.01|[Beyond Sparse Rewards: Enhancing Reinforcement Learning with Language Model Critique in Text Generation](https://arxiv.org/abs/2401.07382)|RELC, RL, PPO|McGill, Toronto, Mila, Google Research|[Blog](https://chanmuzi.tistory.com/491)|ACL 2024 under review|
 |2024.01|[Can AI Assistants Know What They Don't Know?](https://arxiv.org/abs/2401.13275)|Hallucination|Fudan University|[Blog](https://chanmuzi.tistory.com/471)||
 |2024.01|[Tuning Language Models by Proxy](https://arxiv.org/abs/2401.08565)|Proxy-tuning|Allen Institue of AI|[Blog](https://chanmuzi.tistory.com/472)||
 |2024.01|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)|Self-Play|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)||
