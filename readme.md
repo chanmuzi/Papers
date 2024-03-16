@@ -1,4 +1,3 @@
-<img width="945" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/8d932cd7-52d6-4219-b469-1607010fceee"># LLM (Large Language Model)
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.02|[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)|Griffin, Hawk|Google DeepMind|[Blog](https://chanmuzi.tistory.com/488)||
