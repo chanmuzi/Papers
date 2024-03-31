@@ -27,5 +27,5 @@ AI2
 
 
 ---
-논문 링크: https://arxiv.org/abs/2403.13787
+논문 링크: https://arxiv.org/abs/2403.13787  
 리더보드 링크: https://huggingface.co/spaces/allenai/reward-bench
