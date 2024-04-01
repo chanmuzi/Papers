@@ -66,6 +66,7 @@
 # Prompting
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.03|[Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems](https://arxiv.org/abs/2403.11413)|Dynamic Contexts|University of Illinois, Chicago|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Dynamic%20Contexts%20for%20Generating%20Suggestion%20Questions%20in%20RAG%20Based%20Conversational%20Systems.md)|WWW`2024 workshop PromptEng|
 |2024.02|[Hint-before-Solving Prompting: Guiding LLMs to Effectively Utilize Encoded Knowledge](https://arxiv.org/abs/2402.14310)|HSP, Summarization (not mentioned though)|National University of Singapore|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Hint-before-Solving%20Prompting%3A%20Guiding%20LLMs%20to%20Effectively%20Utilize%20Encoded%20Knowledge.md)||
 |2024.02|[A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727)|Gist Memory, ReadAgent|Google DeepMind|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/A%20Human-Inspired%20Reading%20Agent%20with%20Gist%20Memory%20of%20Very%20Long%20Contexts.md)||
 |2024.01|[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)|Meta-Prompting|Stanford University, OpenAI|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Prompting/Meta-Prompting%3A%20Enhancing%20Language%20Models%20with%20Task-Agnostic%20Scaffolding.md)||
