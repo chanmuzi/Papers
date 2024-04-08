@@ -6,6 +6,7 @@ University of Illinois, Chicago
   - RAG 기반 대화형 agent를 사용할 때, 이 system의 능력과 한계에 대해 정확히 인지하지 못하는 사용자들은 명확한 질문을 하기가 어려움
   - suggestion question generator를 개발. dynamic few-shot example과 dynamic retrieved context를 이용.
 - 아키텍쳐 이미지
+
   <img width="450" alt="image" src="https://github.com/chanmuzi/Papers/assets/101971295/c4101adb-68f0-4509-9f2f-538841944949">
 
 - 관련 연구
