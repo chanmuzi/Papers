@@ -35,6 +35,7 @@
 # RAG (Retrieval Augmented Generation)
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.04|[How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior](https://arxiv.org/abs/2404.10198)|Prior Probability|Stanford University|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/RAG/How%20faithful%20are%20RAG%20models%3F.md)||
 |2024.03|[Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)|LLMQA|Renmin University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/Harnessing%20Multi-Role%20Capabilities%20of%20Large%20Language%20Models%20for%20Open-Domain%20Question%20Answering.md)|WWW 2024|
 |2024.01|[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)|tree, summarization|Stanford University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/RAPTOR%3A%20Recursive%20Abstractive%20Processing%20for%20Tree-Organized%20Retrieval.md)|ICLR 2024|
 |2024.01|[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/abs/10.1145/3641289)|Evaluation, Survey|...|[Markdown](https://github.com/chanmuzi/Papers/blob/main/RAG/A%20Survey%20on%20Evaluation%20of%20Large%20Language%20Models.md)|ACM|
