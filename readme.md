@@ -54,6 +54,7 @@
 # Training
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.04|[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/abs/2404.13208)|Instruction Hierarchy|OpenAI|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Training/The%20Instruction%20Hierarchy.md)||
 |2024.01|[Beyond Sparse Rewards: Enhancing Reinforcement Learning with Language Model Critique in Text Generation](https://arxiv.org/abs/2401.07382)|RELC, RL, PPO|McGill, Toronto, Mila, Google Research|[Blog](https://chanmuzi.tistory.com/491)|ACL 2024 under review|
 |2024.01|[Can AI Assistants Know What They Don't Know?](https://arxiv.org/abs/2401.13275)|Hallucination|Fudan University|[Blog](https://chanmuzi.tistory.com/471)||
 |2024.01|[Tuning Language Models by Proxy](https://arxiv.org/abs/2401.08565)|Proxy-tuning|Allen Institue of AI|[Blog](https://chanmuzi.tistory.com/472)||
