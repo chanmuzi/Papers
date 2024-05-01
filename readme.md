@@ -1,6 +1,7 @@
 # LLM (Large Language Model)
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.04|[OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](https://arxiv.org/abs/2404.14619)|layer-wise scaling|Apple|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/LLM/OpenELM.md)||
 |2024.04|[Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965)|Roh-1, Selective Language Modeling|Tsinghua University, Microsoft|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/LLM/Rho-1%3A%20Not%20All%20Tokens%20Are%20What%20You%20Need.md)||
 |2024.03|[Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)|Jamaba, Transformer, Mamba, MoE|AI21labs|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/LLM/Jamba%3A%20A%20Hybrid%20Transformer-Mamba%20Language%20Model.md)||
 |2024.02|[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)|Griffin, Hawk|Google DeepMind|[Blog](https://chanmuzi.tistory.com/488)||
