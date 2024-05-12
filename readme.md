@@ -133,3 +133,6 @@
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2023.03|[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)|LLaVA, Visual Instruction Tuning|Microsoft Research|[Blog](https://chanmuzi.tistory.com/307)|NeurIPS 2023 oral|
+|2021.08|[BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539)|BROS, AMLM, TMLM|NAVER CLOVA|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Multimodal/BROS.md)|AAAI 2022|
+
+
