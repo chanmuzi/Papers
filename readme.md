@@ -107,6 +107,7 @@
 # Evaluation / Benchmark / Dataset
 |Date|Title (arxiv)|Keyword|Affiliation|Note|Conference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.05|[Observational Scaling Laws and the Predictability of Language Model Performance](https://arxiv.org/abs/2405.10938)|Observational Scaling Law|Stanford, Toronto|[Makrdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation%2C%20Benchmark%2C%20Dataset/Observational%20Scaling%20Laws.md)||
 |2024.03|[RewardBench: Evaluating Reward Models for Language Modeling](https://arxiv.org/abs/2403.13787)|Reward Model, DPO|AI2|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation%2C%20Benchmark%2C%20Dataset/RewardBench.md)||
 |2024.02|[Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334)|Bonito, Instruction Tuning Dataset|Brown University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation%2C%20Benchmark%2C%20Dataset/Learning%20to%20Generate%20Instruction%20Tuning%20Datasets%20for%20Zero-Shot%20Task%20Adaptation.md)|ACL 2024 submission|
 |2024.02|[LLM-based NLG Evaluation: Current Status and Challenges](https://arxiv.org/abs/2402.01383)|NLG, Evaluation|Peking University|[Markdown](https://github.com/chanmuzi/Papers/blob/main/Evaluation/LLM-based%20NLG%20Evaluation%3A%20Current%20Status%20and%20Challenges.md)||
